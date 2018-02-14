@@ -17,7 +17,7 @@ require 'navbar.php';
 </div>
 </div>
 
-    <h2 class=" py-3 text-center display-4 font-weight-bold">Find the right program for you</h2>
+    <h2 class=" py-3 text-center display-4 font-weight-bold">Find the right program for you     </h2>
     <div class="container-fluid">
     <section class="row my-4">
         <article class="mt-5 col-xs-12 col-lg-4 d-flex align-items-center flex-column">
